@@ -1,0 +1,560 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|c:\\users\\wai yan moe myint\\source\\se_groupassignment2\\odm\\odm.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\models\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ODM.UI||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ODM.DAL||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\orderform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.bll\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|solutionrelative:odm.bll\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\agentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\agentform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\itemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\itemform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\itemform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\agentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.bll\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|solutionrelative:odm.bll\\agentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\orderform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.ui\\agentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03017C2C-8901-4F7E-94C0-CBC1CD049CC3}|ODM.UI\\ODM.UI.csproj|solutionrelative:odm.ui\\agentform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.bll\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|solutionrelative:odm.bll\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.dal\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B84B3C-469D-47C3-B31B-9E65F779DCA2}|ODM.DAL\\ODM.DAL.csproj|solutionrelative:odm.dal\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\odm.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7A36D67-2E49-4D0A-8FA3-F6C34C616B38}|ODM.BLL\\ODM.BLL.csproj|solutionrelative:odm.bll\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ODM.DAL\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:44:39.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\App.config",
+              "RelativeDocumentMoniker": "ODM.UI\\App.config",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\App.config",
+              "RelativeToolTip": "ODM.UI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T03:36:21.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ODM.DAL",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\ODM.DAL.csproj",
+              "RelativeDocumentMoniker": "ODM.DAL\\ODM.DAL.csproj",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\ODM.DAL.csproj",
+              "RelativeToolTip": "ODM.DAL\\ODM.DAL.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T03:35:55.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\packages.config",
+              "RelativeDocumentMoniker": "ODM.DAL\\packages.config",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\packages.config",
+              "RelativeToolTip": "ODM.DAL\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-08T03:33:23.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\Startup.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\Startup.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\Startup.cs",
+              "RelativeToolTip": "ODM.UI\\Startup.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T09:49:24.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\UserRepository.cs",
+              "RelativeToolTip": "ODM.DAL\\UserRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:48:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\App.config",
+              "RelativeDocumentMoniker": "ODM.DAL\\App.config",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\App.config",
+              "RelativeToolTip": "ODM.DAL\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-24T03:43:58.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\Models\\Models.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\Models\\Models.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\Models\\Models.cs",
+              "RelativeToolTip": "ODM.DAL\\Models\\Models.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAuwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:26:27.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\Program.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\Program.cs",
+              "RelativeToolTip": "ODM.UI\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:01:54.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ODM.UI",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ODM.UI.csproj",
+              "RelativeDocumentMoniker": "ODM.UI\\ODM.UI.csproj",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ODM.UI.csproj",
+              "RelativeToolTip": "ODM.UI\\ODM.UI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-25T09:49:02.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\OrderRepository.cs",
+              "RelativeToolTip": "ODM.DAL\\OrderRepository.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:51:01.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.cs",
+              "RelativeToolTip": "ODM.UI\\OrderForm.cs",
+              "ViewState": "AgIAAGoBAAAAAAAAAAAAAGwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:38.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\OrderForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.cs [Design]",
+              "RelativeToolTip": "ODM.UI\\OrderForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:15:36.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\OrderService.cs",
+              "RelativeDocumentMoniker": "ODM.BLL\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\OrderService.cs",
+              "RelativeToolTip": "ODM.BLL\\OrderService.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAMwE8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:39:55.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.cs [Design]",
+              "RelativeToolTip": "ODM.UI\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:51:20.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "mForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\mForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.cs [Design]",
+              "RelativeToolTip": "ODM.UI\\mForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:41:24.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "mForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\mForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.cs",
+              "RelativeToolTip": "ODM.UI\\mForm.cs",
+              "ViewState": "AgIAAKoAAAAAAAAAAIAwwMIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:42:01.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AgentForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\AgentForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\AgentForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\AgentForm.cs [Design]",
+              "RelativeToolTip": "ODM.UI\\AgentForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:02:09.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "mForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\mForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\mForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\mForm.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAD4v1AAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:42:34.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\MainForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\MainForm.Designer.cs",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwN4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T04:18:57.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.cs [Design]",
+              "RelativeToolTip": "ODM.UI\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:35:52.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.cs",
+              "RelativeToolTip": "ODM.UI\\LoginForm.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAApwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T08:10:01.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ItemForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ItemForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\ItemForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ItemForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\ItemForm.Designer.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAADwv6gAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:47:06.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\MainForm.cs",
+              "RelativeToolTip": "ODM.UI\\MainForm.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAswHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T03:36:58.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AgentService.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\AgentService.cs",
+              "RelativeDocumentMoniker": "ODM.BLL\\AgentService.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\AgentService.cs",
+              "RelativeToolTip": "ODM.BLL\\AgentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA/wD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:00:39.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ItemForm.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ItemForm.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\ItemForm.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\ItemForm.cs",
+              "RelativeToolTip": "ODM.UI\\ItemForm.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAIAwwCMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:48:44.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AgentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\AgentRepository.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\AgentRepository.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\AgentRepository.cs",
+              "RelativeToolTip": "ODM.DAL\\AgentRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:52:53.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\LoginForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\LoginForm.Designer.cs",
+              "ViewState": "AgIAAJ0AAAAAAAAAAAAmwKcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T10:40:31.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrderForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\OrderForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\OrderForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\OrderForm.Designer.cs",
+              "ViewState": "AgIAAMgAAAAAAAAAAAAmwNMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:16:57.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AgentForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\AgentForm.Designer.cs",
+              "RelativeDocumentMoniker": "ODM.UI\\AgentForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.UI\\AgentForm.Designer.cs",
+              "RelativeToolTip": "ODM.UI\\AgentForm.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAYwHsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:02:16.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\ItemService.cs",
+              "RelativeDocumentMoniker": "ODM.BLL\\ItemService.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\ItemService.cs",
+              "RelativeToolTip": "ODM.BLL\\ItemService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:41:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\ItemRepository.cs",
+              "RelativeDocumentMoniker": "ODM.DAL\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.DAL\\ItemRepository.cs",
+              "RelativeToolTip": "ODM.DAL\\ItemRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:52:38.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\UserService.cs",
+              "RelativeDocumentMoniker": "ODM.BLL\\UserService.cs",
+              "ToolTip": "C:\\Users\\Wai Yan Moe Myint\\source\\SE_GroupAssignment2\\ODM\\ODM.BLL\\UserService.cs",
+              "RelativeToolTip": "ODM.BLL\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:59:39.53Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
